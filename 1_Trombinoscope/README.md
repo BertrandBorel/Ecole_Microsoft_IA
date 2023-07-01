@@ -1,4 +1,5 @@
 # Projet_1_Trombinoscope
 
-Rendu du projet Trombinoscope.
-Pour plus d'informations, consulter le rapport du projet.
+L'objectif est de réaliser un trombinoscope : chaque photo doit être liée à une personne.
+
+L'interface graphique est réalisée avec Tkinter, les informations sont stockées en base.
