@@ -1,4 +1,4 @@
-# Projet_1_Trombinoscope
+# Projet 1 : Trombinoscope
 
 L'objectif est de réaliser un trombinoscope : chaque photo doit être liée à une personne.
 
